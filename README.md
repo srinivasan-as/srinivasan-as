@@ -28,7 +28,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-srini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-a-831733245/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-srinivasan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-a-831733245/)
 
 ---
 
